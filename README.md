@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left">
+	<a href="https://www.linkedin.com/in/bethan-hutt-180b8722/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+
 <!--
 **bethanHutt/bethanhutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
