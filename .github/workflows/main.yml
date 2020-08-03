@@ -3,6 +3,7 @@ name: create README
 on:
   schedule:
   - cron: "1 0 * * *"
+  - cron: "49 17 * * *"
 
 jobs:
   build:
