@@ -3,7 +3,7 @@
 - 📍️ I live in London, UK.  
 - 🏢️ I'm a Python Developer at Burrows.  
 - 😀️ My hobbies include --> 🏊‍♀️️🏃‍♀️️✈️🖥️📚️🍽️  
-- 🤷‍♀️️ Apparently I find emojis cute.  
+- 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 
 <!-- japanese_wotd starts -->
