@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> test.
+💬 Japanese Word of the Day --> サークル: club activities.
 <!-- japanese_wotd ends -->
 
 <!-- spotify_wdgt_starts -->
