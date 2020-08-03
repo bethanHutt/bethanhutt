@@ -54,7 +54,7 @@ def fetch_word_of_the_day():
 
 def main():
     word_of_the_day = fetch_word_of_the_day()
-  
+    
     readme = ReadMe()
     readme.replace_word_of_the_day(new_wotd=word_of_the_day)
     readme.save_readme()
