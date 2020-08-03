@@ -18,16 +18,6 @@ jobs:
       with:
         python-version: 3.8
         
-    - name: Pip Installer
-      uses: actions/checkout@v2
-      uses: actions/setup-python@v1
-      uses: BSFishy/pip-action@v1
-      with:
-        packages: |
-          feedparser==5.2.1
-      run: python main.py
-
-    
     - name: Update README
       env:
         README_TOKEN: ${{ secrets.GITHUB_TOKEN }}
