@@ -3,13 +3,12 @@
 - 📍️ I live in London, UK.  
 - 🏢️ I'm a Python Developer at Burrows.  
 - 😀️ My hobbies include --> 🏊‍♀️️🏃‍♀️️✈️🖥️📚️🍽️  
+- 🤷‍♀️️ Apparently I find emojis cute.  
+
 
 <!-- japanese_wotd starts -->
 - 💬 Japanese Word of the Day --> サークル: club activities.
 <!-- japanese_wotd ends -->
-
-- 🤷‍♀️️ Apparently I find emojis cute.  
-
 
 
 <!-- linkedin_badge_starts -->
