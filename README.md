@@ -10,6 +10,9 @@
 💬 Japanese Word of the Day --> ペンション: bed and breakfast.
 <!-- japanese_wotd ends -->
 
+<!-- github_stats starts -->
+[![Bethan's github stats](https://github-readme-stats.vercel.app/api?username=bethanHutt&count_private=true?&theme=synthwave&hide=prs,contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- github_stats ends -->
 
 <!-- linkedin_badge_starts -->
 <p align="left">
