@@ -7,7 +7,7 @@
 
 
 <!-- japanese_wotd starts -->
-- 💬 Japanese Word of the Day --> サークル: club activities.
+💬 Japanese Word of the Day --> サークル: club activities.
 <!-- japanese_wotd ends -->
 
 
