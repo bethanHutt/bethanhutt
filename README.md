@@ -15,8 +15,8 @@
 <!-- github_stats ends -->
 
 <!-- linkedin_badge_starts -->
-<p align="left">
-	My LinkedIn is here --> <a href="https://www.linkedin.com/in/bethan-hutt-180b8722/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<p align="right">
+	<a href="https://www.linkedin.com/in/bethan-hutt-180b8722/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 <!-- linkedin_badge_ends -->
 
