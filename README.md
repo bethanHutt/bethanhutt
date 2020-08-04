@@ -15,7 +15,7 @@
 
 <!-- spotify_wdgt_starts -->
 <a href="https://now-playing-profile-nu.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile-nu.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://now-playing-profile-nu.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 <!-- spotify_wdgt_ends -->
 
