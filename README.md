@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 合コン: group blind date.
+💬 Japanese Word of the Day --> 意地悪: mean.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
