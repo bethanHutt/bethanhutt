@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 鬱陶しい: annoying.
+💬 Japanese Word of the Day --> お洒落: fashionable.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
