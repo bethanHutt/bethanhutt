@@ -19,7 +19,13 @@
 </a>
 <!-- spotify_wdgt_ends -->
 
+<!-- codewars_badge_starts -->
+<br><a href="https://www.codewars.com/users/bethan157">
+	<img src="https://www.codewars.com/users/bethan157/badges/small"></a>
+<!-- codewars_badge_ends -->
+
 <!-- linkedin_badge_starts -->
+
 <p align="right">
 	<a href="https://www.linkedin.com/in/bethan-hutt-180b8722/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
