@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> オタク: geek.
+💬 Japanese Word of the Day --> 老ける: to get old.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
