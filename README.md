@@ -10,7 +10,12 @@
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
-[![Bethan's github stats](https://github-readme-stats.vercel.app/api?username=bethanHutt&count_private=true?&theme=synthwave&hide=prs,contribs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bethanHutt&count_private=true?&theme=synthwave&hide=prs,contribs,issues&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethanHutt&count_private=true?&theme=synthwave" />
+</a>
 <!-- github_stats ends -->
 
 <!-- spotify_wdgt_starts -->
