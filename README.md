@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 見合い: Japanese style formal blind date.
+💬 Japanese Word of the Day --> 赤点: failing score.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
