@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ナンパする: to hit on.
+💬 Japanese Word of the Day --> お笑い: comedy.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
