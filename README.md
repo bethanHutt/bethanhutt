@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 怪しい: suspicious.
+💬 Japanese Word of the Day --> OL: female office worker.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
