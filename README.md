@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 首になる: to get fired.
+💬 Japanese Word of the Day --> デジカメ: digital camera.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
