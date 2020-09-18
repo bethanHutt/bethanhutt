@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> もてる: to be popular.
+💬 Japanese Word of the Day --> ダイエットする: to go on a diet.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
