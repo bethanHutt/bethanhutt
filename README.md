@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 調子: in shape.
+💬 Japanese Word of the Day --> 面食い: a sucker for a handsome face.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
