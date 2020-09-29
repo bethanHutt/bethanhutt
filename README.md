@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ワンセグ: TV show that are mainly broadcast via mobile device(s).
+💬 Japanese Word of the Day --> いた電: prank call.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
