@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 贅沢: luxury.
+💬 Japanese Word of the Day --> 一流: first-rate.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
