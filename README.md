@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 二流: second-rate.
+💬 Japanese Word of the Day --> 三流: third-rate.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
