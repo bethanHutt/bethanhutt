@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 三流: third-rate.
+💬 Japanese Word of the Day --> 冷やす: to refrigerate.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
