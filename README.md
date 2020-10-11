@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 冷やす: to refrigerate.
+💬 Japanese Word of the Day --> 冷ます: to cool down.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
