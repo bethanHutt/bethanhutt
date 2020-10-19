@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 鍵っ子: latchkey kid.
+💬 Japanese Word of the Day --> もめる: to have a disagreement.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
