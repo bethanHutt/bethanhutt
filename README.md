@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 発展途上国: developing country.
+💬 Japanese Word of the Day --> 立候補する: to run for.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
