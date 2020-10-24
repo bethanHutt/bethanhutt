@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 当選する: to be elected.
+💬 Japanese Word of the Day --> 中年: middle age.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
