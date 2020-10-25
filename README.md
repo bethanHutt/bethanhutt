@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 中年: middle age.
+💬 Japanese Word of the Day --> せこい: stingy.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
