@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> へそくり: secret money savings.
+💬 Japanese Word of the Day --> 本命: likely winner.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
