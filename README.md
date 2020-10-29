@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 本命: likely winner.
+💬 Japanese Word of the Day --> シャギー: shaggy hairstyle.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
