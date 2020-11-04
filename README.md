@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ファザコン: father complex.
+💬 Japanese Word of the Day --> 素人: amateur.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
