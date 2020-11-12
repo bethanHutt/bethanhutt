@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> マフラー: scarf.
+💬 Japanese Word of the Day --> 引きこもり: withdrawing from society.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
