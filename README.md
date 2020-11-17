@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 天才: genius.
+💬 Japanese Word of the Day --> メタボ: metabolic syndrome.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
