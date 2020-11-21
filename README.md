@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> おじゃまします: Excuse me..
+💬 Japanese Word of the Day --> やらせ: pre-arranged performance.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
