@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> スカーフ: scarf.
+💬 Japanese Word of the Day --> 思い出す: to recall.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
