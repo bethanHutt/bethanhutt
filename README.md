@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 元カノ: ex-girlfriend.
+💬 Japanese Word of the Day --> 元カレ: ex-boyfriend.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
