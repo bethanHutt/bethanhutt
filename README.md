@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 掃除: cleaning.
+💬 Japanese Word of the Day --> 派遣する: to send.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
