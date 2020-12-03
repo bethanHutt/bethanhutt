@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 湿気る: to be humid.
+💬 Japanese Word of the Day --> くれる: to give.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
