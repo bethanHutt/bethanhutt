@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> くれる: to give.
+💬 Japanese Word of the Day --> ごちそうさまでした: It was a feast..
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
