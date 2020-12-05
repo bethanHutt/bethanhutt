@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ごちそうさまでした: It was a feast..
+💬 Japanese Word of the Day --> 片付ける: to clean up.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
