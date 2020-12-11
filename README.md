@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 肩こり: stiff shoulder.
+💬 Japanese Word of the Day --> 送って行く: to see somebody off.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
