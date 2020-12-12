@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 送って行く: to see somebody off.
+💬 Japanese Word of the Day --> めんどうくさい: a hassle.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
