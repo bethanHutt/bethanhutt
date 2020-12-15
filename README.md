@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> こんにちは: Good afternoon..
+💬 Japanese Word of the Day --> やりくりする: to make ends meet.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
