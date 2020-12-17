@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> かっこいい: cool.
+💬 Japanese Word of the Day --> コラボ: collaboration.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
