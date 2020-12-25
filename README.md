@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 古い: old.
+💬 Japanese Word of the Day --> 定年: retirement.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
