@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 願書: application.
+💬 Japanese Word of the Day --> 稼ぐ: to earn money.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
