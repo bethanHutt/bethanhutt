@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ありがとう: Thank you..
+💬 Japanese Word of the Day --> けっこうです: No, thank you..
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
