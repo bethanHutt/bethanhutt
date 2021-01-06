@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 失礼しました: I'm very sorry about that..
+💬 Japanese Word of the Day --> マザコン: mama's boy.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
