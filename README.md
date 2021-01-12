@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> だれる: to be distracted.
+💬 Japanese Word of the Day --> バーゲン: bargain.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
