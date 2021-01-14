@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 逆ギレ: to snap at.
+💬 Japanese Word of the Day --> 迎えに行く: to pick someone up.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
