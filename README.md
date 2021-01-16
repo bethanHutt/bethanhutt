@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> お久しぶりです: I have not seen you for a long time..
+💬 Japanese Word of the Day --> じゃあ、また: See you later..
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
