@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 恩: to owe someone.
+💬 Japanese Word of the Day --> 苦手: poor at.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
