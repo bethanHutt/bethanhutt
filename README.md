@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 儲かる: to make a profit.
+💬 Japanese Word of the Day --> 考える: to consider.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
