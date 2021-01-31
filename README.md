@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 白星: a win.
+💬 Japanese Word of the Day --> 生活: daily life.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
