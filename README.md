@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 味方: ally.
+💬 Japanese Word of the Day --> 留学する: to study abroad.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
