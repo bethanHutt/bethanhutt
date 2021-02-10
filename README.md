@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 感謝する: to appreciate.
+💬 Japanese Word of the Day --> 同窓会: reunion.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
