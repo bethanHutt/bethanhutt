@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 結局: in the end.
+💬 Japanese Word of the Day --> 頑張る: to do one's best.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
