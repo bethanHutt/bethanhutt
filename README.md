@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 退職する: to retire.
+💬 Japanese Word of the Day --> 雪かき: snow plowing.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
