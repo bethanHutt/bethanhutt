@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 洗濯する: to do laundry.
+💬 Japanese Word of the Day --> だめ: no good.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
