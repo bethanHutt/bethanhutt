@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> だめ: no good.
+💬 Japanese Word of the Day --> 乾燥する: to be dry.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
