@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📍️ I live in London, UK.  
-- 🏢️ I'm a Python Developer at Burrows.  
+- 🏢️ I'm a Software Engineer at Elsevier.  
 - 😀️ My hobbies include --> 🏊‍♀️️🏃‍♀️️✈️🖥️📚️🍽️  
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
