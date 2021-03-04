@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 本: book.
+💬 Japanese Word of the Day --> 誕生日: birthday.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
