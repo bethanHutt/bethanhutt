@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 見る: to see.
+💬 Japanese Word of the Day --> 勉強する: to study.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
