@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> おなかがすいた: I am hungry..
+💬 Japanese Word of the Day --> のどがかわいた: I am thirsty..
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
