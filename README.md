@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 電気: electricity.
+💬 Japanese Word of the Day --> すごい: great.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
