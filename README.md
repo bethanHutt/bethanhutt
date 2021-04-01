@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> プロ: professional.
+💬 Japanese Word of the Day --> ぼったくり: rip-off.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
