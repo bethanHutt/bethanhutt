@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ぼったくり: rip-off.
+💬 Japanese Word of the Day --> おごる: to treat someone.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
