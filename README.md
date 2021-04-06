@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 通る: to go toward.
+💬 Japanese Word of the Day --> 助ける: to help.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
