@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 連れて行く: to take someone to somewhere.
+💬 Japanese Word of the Day --> 連れて来る: to bring someone along.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
