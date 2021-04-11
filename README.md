@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 持って来る: to bring something to a place.
+💬 Japanese Word of the Day --> 中古: used.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
