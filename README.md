@@ -11,7 +11,7 @@
 
 <!-- github_stats starts -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bethanHutt&count_private=true?&theme=synthwave,contribs,issues&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bethanHutt&count_private=true?&theme=synthwave&hide=prs,contribs,issues&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bethanHutt&count_private=true?&theme=synthwave" />
