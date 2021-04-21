@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 湯: hot water.
+💬 Japanese Word of the Day --> 遠回り: roundabout route.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
