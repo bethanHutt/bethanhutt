@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> イケメン: handsome man.
+💬 Japanese Word of the Day --> いかす: to be attractive.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
