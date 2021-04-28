@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ガリガリ: very skinny.
+💬 Japanese Word of the Day --> ガリ勉: nerd.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
