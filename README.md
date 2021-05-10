@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> アマチュア: amateur.
+💬 Japanese Word of the Day --> 付き合う: to date.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
