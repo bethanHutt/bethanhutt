@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 結婚している: married.
+💬 Japanese Word of the Day --> 嫌い: to dislike.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
