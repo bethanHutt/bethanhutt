@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 嫌い: to dislike.
+💬 Japanese Word of the Day --> 好き: to like.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
