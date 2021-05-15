@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 年をとっている: old.
+💬 Japanese Word of the Day --> 犬: dog.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
