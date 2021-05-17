@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> リピーター: a regular customer.
+💬 Japanese Word of the Day --> 破局: breakup.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
