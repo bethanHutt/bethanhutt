@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> デパ地下: basement floors of a department store.
+💬 Japanese Word of the Day --> メル友: e-mail friend.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
