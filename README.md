@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 紅葉: autumn foliage.
+💬 Japanese Word of the Day --> 省エネ: energy saving.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
