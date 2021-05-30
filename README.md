@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 流行: trend.
+💬 Japanese Word of the Day --> ゲーセン: arcade.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
