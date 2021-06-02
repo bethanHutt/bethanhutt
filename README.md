@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 梅雨: rainy season.
+💬 Japanese Word of the Day --> サークル: club activities.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
