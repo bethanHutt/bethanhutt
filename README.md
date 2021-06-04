@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> サークル: club activities.
+💬 Japanese Word of the Day --> ペンション: bed and breakfast.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
