@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 田舎: countryside.
+💬 Japanese Word of the Day --> ストーブ: space heater.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
