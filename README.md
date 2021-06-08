@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> こんろ: stove.
+💬 Japanese Word of the Day --> 監督: movie director.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
