@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> お世話: aid, help, assistance, care.
+💬 Japanese Word of the Day --> お中元: summer gift, mid-year gift.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
