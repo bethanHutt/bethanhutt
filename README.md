@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 心遣い: consideration, thoughtfulness, care.
+💬 Japanese Word of the Day --> 夏の風物詩: things that remind one of summer.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
