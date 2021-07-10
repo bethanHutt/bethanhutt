@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 夏の風物詩: things that remind one of summer.
+💬 Japanese Word of the Day --> 休暇: vacation.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
