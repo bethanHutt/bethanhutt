@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 週休二日: five-day workweek system.
+💬 Japanese Word of the Day --> 観戦する: to watch games or sports.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
