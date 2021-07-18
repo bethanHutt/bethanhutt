@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> どうしましたか。: What can I do for you?.
+💬 Japanese Word of the Day --> 半休: a half-day off.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
