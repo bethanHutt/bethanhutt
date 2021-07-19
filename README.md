@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 半休: a half-day off.
+💬 Japanese Word of the Day --> 柔軟に: flexibly.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
