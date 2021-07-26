@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 在宅勤務: working from home, home teleworking, telecommuting.
+💬 Japanese Word of the Day --> 在: to exist.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
