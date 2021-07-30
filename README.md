@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 慌ただしい: busy, hurried, hectic.
+💬 Japanese Word of the Day --> 病気休暇: sick leave.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
