@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> なんとなく: vaguely, for no specific reason.
+💬 Japanese Word of the Day --> 尊敬する: to respect, to revere.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
