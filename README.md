@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 敬意: respect, honor, deference.
+💬 Japanese Word of the Day --> ＃代: indicates order of succession.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
