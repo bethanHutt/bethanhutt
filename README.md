@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 対応する: to deal with, to correspond.
+💬 Japanese Word of the Day --> 外交: foreign diplomacy.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
