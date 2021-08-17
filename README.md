@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 外交: foreign diplomacy.
+💬 Japanese Word of the Day --> 激しい: intense, furious, fierce.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
