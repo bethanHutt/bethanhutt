@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 特許: patent.
+💬 Japanese Word of the Day --> 励ます: to encourage, to hearten.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
