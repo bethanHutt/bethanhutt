@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 不得手: weak point.
+💬 Japanese Word of the Day --> 目覚ましい: remarkable, outstanding.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
