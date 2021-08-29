@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 身近な: familiar, closest to.
+💬 Japanese Word of the Day --> 判断力: discernment, judgement.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
