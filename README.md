@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 敬老の日: Respect for the Aged Day.
+💬 Japanese Word of the Day --> 豊富な: plentiful, abundant, rich.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
