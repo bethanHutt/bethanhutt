@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 特別な: special, particular.
+💬 Japanese Word of the Day --> 還暦: sixty years old.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
