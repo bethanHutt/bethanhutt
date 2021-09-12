@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 実施する: to implement, to conduct.
+💬 Japanese Word of the Day --> 今後: from now on.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
