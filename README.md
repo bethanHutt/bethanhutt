@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 拡大する: to expand, to extend, to widen.
+💬 Japanese Word of the Day --> しっかり: tightly, firmly.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
