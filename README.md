@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 明確な: definite, concrete, clear.
+💬 Japanese Word of the Day --> 頭が真っ白になる: to feel numb, to blank out.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
