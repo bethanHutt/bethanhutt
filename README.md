@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 頭が真っ白になる: to feel numb, to blank out.
+💬 Japanese Word of the Day --> 圧倒的に: overwhelmingly, predominantly.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
