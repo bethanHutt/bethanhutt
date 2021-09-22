@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 圧倒的に: overwhelmingly, predominantly.
+💬 Japanese Word of the Day --> 比べる: to compare, to measure.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
