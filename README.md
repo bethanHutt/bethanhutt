@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 正しい: correct, exact, clean, right.
+💬 Japanese Word of the Day --> 具体的に: specifically, concretely.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
