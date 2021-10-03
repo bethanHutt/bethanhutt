@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> あからさまに: obviously, bluntly, openly.
+💬 Japanese Word of the Day --> お腹を抱えて笑う: to burst into laughter.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
