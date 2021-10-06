@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 一つや二つ: one or two, a few.
+💬 Japanese Word of the Day --> 速: fast.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
