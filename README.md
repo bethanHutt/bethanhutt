@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 速: fast.
+💬 Japanese Word of the Day --> 恐怖心: fear, scary emotions.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
