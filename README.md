@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ちっとも: by any means.
+💬 Japanese Word of the Day --> 体感する: to feel, to actually experience.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
