@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ペーパードライバー: paper driver.
+💬 Japanese Word of the Day --> 物好きな: unnecessarily curious.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
