@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 圧迫感: a feeling of oppression, oppressive feeling.
+💬 Japanese Word of the Day --> 意外な: surprising, unforeseen, eye-opening.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
