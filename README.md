@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ハロウィーン: Halloween.
+💬 Japanese Word of the Day --> 仮装する: to masquerade, to disguise oneself as.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
