@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ポイ捨て: littering.
+💬 Japanese Word of the Day --> 克服する: to overcome, to conquer, to get rid of.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
