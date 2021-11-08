@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 足がつる: to have one's leg cramp.
+💬 Japanese Word of the Day --> 糖尿病: diabetes.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
