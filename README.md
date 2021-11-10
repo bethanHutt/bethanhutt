@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> お腹が張る: to feel bloated.
+💬 Japanese Word of the Day --> 治る: to be cured, to get well.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
