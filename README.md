@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> お参りする: to visit a shrine.
+💬 Japanese Word of the Day --> 千歳飴: Seven-Five-Three Festival candy.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
