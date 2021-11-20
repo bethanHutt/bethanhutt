@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ピリピリと痛い: tingling pain.
+💬 Japanese Word of the Day --> 貧血: anemia.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
