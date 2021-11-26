@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 見直す: to go back over, to rethink, to revise, to review.
+💬 Japanese Word of the Day --> 番: order, number.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
