@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 癌: cancer.
+💬 Japanese Word of the Day --> ダラダラする: to be lazy, to stagnate.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
