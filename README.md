@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 趣味を押し付ける: to force one's tastes or preferences on another.
+💬 Japanese Word of the Day --> 熟知する: to totally know.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
