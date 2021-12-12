@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 熟知する: to totally know.
+💬 Japanese Word of the Day --> そういえば: as I recall, come to think of it.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
