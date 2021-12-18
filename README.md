@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> センスが良い: having good taste.
+💬 Japanese Word of the Day --> 気を遣う: to pay careful attention to something.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
