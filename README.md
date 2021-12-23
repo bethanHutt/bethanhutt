@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> たっぷり: plenty.
+💬 Japanese Word of the Day --> 役所: a government office.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
