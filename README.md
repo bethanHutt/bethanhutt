@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 重要な: significant, important.
+💬 Japanese Word of the Day --> 休業: closure in business, taking a holiday.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
