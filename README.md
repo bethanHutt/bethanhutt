@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 郵便物: postal item, mail.
+💬 Japanese Word of the Day --> 年賀状: New Year's card.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
