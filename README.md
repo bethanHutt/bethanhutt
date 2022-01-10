@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 健康的な: healthy.
+💬 Japanese Word of the Day --> 階段: stairs.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
