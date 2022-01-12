@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> クタクタな: to be exhausted, to be worn out.
+💬 Japanese Word of the Day --> 貯める: to save up.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
