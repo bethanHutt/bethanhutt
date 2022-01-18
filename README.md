@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 焼く: to bake, to broil, to burn.
+💬 Japanese Word of the Day --> 苦い: bitter.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
