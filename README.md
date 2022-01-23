@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 合格する: to pass (a test), to get through.
+💬 Japanese Word of the Day --> 片付ける: to declutter, to tidy up, to straighten up.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
