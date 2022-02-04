@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> つまみ食い: nibble.
+💬 Japanese Word of the Day --> 味: taste.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
