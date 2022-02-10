@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 心機一転: a fresh start, a clean start, turning over a new leaf.
+💬 Japanese Word of the Day --> 期待する: to expect, to await, to count on.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
