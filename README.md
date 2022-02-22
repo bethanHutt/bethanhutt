@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 酸っぱい: sour, tart, acerbic.
+💬 Japanese Word of the Day --> 勇気: bravery, courage, pluck.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
