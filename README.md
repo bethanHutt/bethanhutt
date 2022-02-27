@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> やりがいがある: to be rewarding, to be worthwhile.
+💬 Japanese Word of the Day --> 束: counter for something tied together.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
