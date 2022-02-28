@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 束: counter for something tied together.
+💬 Japanese Word of the Day --> 取り消す: to cancel, to back down, to take back.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
