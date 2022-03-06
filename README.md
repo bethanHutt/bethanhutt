@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 顔見知り: acquaintance.
+💬 Japanese Word of the Day --> ー域: area.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
