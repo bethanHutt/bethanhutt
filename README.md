@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> つらい: tough, hard, painful, bitter.
+💬 Japanese Word of the Day --> 駐車場: parking space, parking lot.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
