@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ビニール袋: plastic bag.
+💬 Japanese Word of the Day --> 助け合う: to cooperate, to help one another, to stand up for each other.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
