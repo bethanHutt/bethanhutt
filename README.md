@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 助け合う: to cooperate, to help one another, to stand up for each other.
+💬 Japanese Word of the Day --> 鳴き声: call, chirp, bleat.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
