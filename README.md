@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 井戸端会議: gossip session, water cooler talk.
+💬 Japanese Word of the Day --> 慎重に: carefully, cautiously.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
