@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 噂話: gossip.
+💬 Japanese Word of the Day --> 積極的な: active, aggressive, assertive, constructive.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
