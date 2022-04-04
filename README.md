@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 宴会: company party, corporate gathering.
+💬 Japanese Word of the Day --> 新年度: a new business/school year, a new fiscal year.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
