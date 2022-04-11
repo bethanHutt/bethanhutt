@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> パワハラ: power harassment, harassment by a supervisor, workplace power harassment.
+💬 Japanese Word of the Day --> 口出しする: to stick one's nose into something, to interfere with.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
