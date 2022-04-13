@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 話の腰を折る: to interrupt a conversation.
+💬 Japanese Word of the Day --> 空気を読む: to read the situation, to sense the mood.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
