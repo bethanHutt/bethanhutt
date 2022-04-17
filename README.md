@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 人柄: character, a person's typical behavior and attitude.
+💬 Japanese Word of the Day --> 同調する: to follow the crowd.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
