@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 同調する: to follow the crowd.
+💬 Japanese Word of the Day --> 否定的な: negative, unfavorable.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
