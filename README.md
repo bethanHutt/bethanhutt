@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 否定的な: negative, unfavorable.
+💬 Japanese Word of the Day --> 誠実: sincereness, conscience, honesty, integrity.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
