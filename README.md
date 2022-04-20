@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 誠実: sincereness, conscience, honesty, integrity.
+💬 Japanese Word of the Day --> 以心伝心: tacit understanding, telepathy.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
