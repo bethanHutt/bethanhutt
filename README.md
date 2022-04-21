@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 以心伝心: tacit understanding, telepathy.
+💬 Japanese Word of the Day --> 肯定的な: positive, affirmative.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
