@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 指示: instruction, direction, cue.
+💬 Japanese Word of the Day --> 振り回す: to sway someone, to manipulate.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
