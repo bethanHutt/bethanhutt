@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 振り回す: to sway someone, to manipulate.
+💬 Japanese Word of the Day --> 感情的な: emotional, sentimental.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
