@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 感情的な: emotional, sentimental.
+💬 Japanese Word of the Day --> 頼りになる: to become reliable.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
