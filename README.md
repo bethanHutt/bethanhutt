@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 見逃す: to miss out, to lose out on.
+💬 Japanese Word of the Day --> 実家: parents' home.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
