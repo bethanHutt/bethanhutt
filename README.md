@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 実家: parents' home.
+💬 Japanese Word of the Day --> 帰省する: to visit one's home, to return home for a short period of time.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
