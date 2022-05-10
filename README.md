@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 予算: budget.
+💬 Japanese Word of the Day --> お得な: good deal, bargain, cheap, reasonable.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
