@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 鑑賞する: to appreciate.
+💬 Japanese Word of the Day --> 感: feeling, impression, emotion.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
