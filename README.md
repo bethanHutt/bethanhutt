@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 模様替え: remodeling, rearranging.
+💬 Japanese Word of the Day --> 手ごろな: handy, modest, reasonable, affordable.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
