@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 手ごろな: handy, modest, reasonable, affordable.
+💬 Japanese Word of the Day --> 利用する: to use, to apply, to take, to leverage.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
