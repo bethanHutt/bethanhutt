@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 利用する: to use, to apply, to take, to leverage.
+💬 Japanese Word of the Day --> 自己投資: investment in oneself.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
