@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 自己投資: investment in oneself.
+💬 Japanese Word of the Day --> 日本語が通じる: Japanese-speaking countries/areas.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
