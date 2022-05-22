@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 圧倒的な: irresistibly, massive, commanding.
+💬 Japanese Word of the Day --> 眺める: to view, to regard.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
