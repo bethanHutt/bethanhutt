@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 眺める: to view, to regard.
+💬 Japanese Word of the Day --> 充実感: a sense of fulfillment.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
