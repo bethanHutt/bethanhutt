@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 充実感: a sense of fulfillment.
+💬 Japanese Word of the Day --> 有意義な: worthwhile, meaningful, valuable.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
