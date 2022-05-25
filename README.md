@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 有意義な: worthwhile, meaningful, valuable.
+💬 Japanese Word of the Day --> 縦横無尽に: to the fullest, to one's complete satisfaction, freely, far and wide.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
