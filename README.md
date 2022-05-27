@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 治安: public order, security, civil order.
+💬 Japanese Word of the Day --> 庶民的な: plebian, folksy, ordinary.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
