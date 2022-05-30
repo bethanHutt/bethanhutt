@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 断捨離: decluttering, minimalism.
+💬 Japanese Word of the Day --> すっかり: all, quite, totally, completely.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
