@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 選択肢: option, choice, alternative.
+💬 Japanese Word of the Day --> 満喫する: to fully enjoy oneself, to get the most enjoyment.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
