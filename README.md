@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 梅雨: rainy season.
+💬 Japanese Word of the Day --> 豪雨: heavy rain, heavy downpours.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
