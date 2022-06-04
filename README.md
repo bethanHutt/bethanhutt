@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 豪雨: heavy rain, heavy downpours.
+💬 Japanese Word of the Day --> シトシトと: pitter-patter.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
