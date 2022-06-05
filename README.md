@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> シトシトと: pitter-patter.
+💬 Japanese Word of the Day --> ジメジメする: to get uncomfortably humid.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
