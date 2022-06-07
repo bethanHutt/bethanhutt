@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 災害: disaster.
+💬 Japanese Word of the Day --> 備蓄する: to build a stockpile, to stockpile.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
