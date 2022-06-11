@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 洪水: flood, flooding.
+💬 Japanese Word of the Day --> 慌てる: to be flustered, to hurry, to panic.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
