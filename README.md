@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 停電する: to lose power, to have a power blackout.
+💬 Japanese Word of the Day --> 乾電池: battery.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
