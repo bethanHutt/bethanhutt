@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 充電する: to charge, to recharge.
+💬 Japanese Word of the Day --> 梅雨前線: rainy season front.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
