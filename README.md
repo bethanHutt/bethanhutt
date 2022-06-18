@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 買い置き: a stock of goods, a reserve of supplies.
+💬 Japanese Word of the Day --> 揺れる: to shake.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
