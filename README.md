@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 揺れる: to shake.
+💬 Japanese Word of the Day --> 転倒する: to fall down, to cause something to fall.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
