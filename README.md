@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 貴重品: valuables.
+💬 Japanese Word of the Day --> しょうがない: there's no way, cannot be helped, hopeless.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
