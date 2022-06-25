@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 警報: alarm, alert, warning, warning signal.
+💬 Japanese Word of the Day --> 対策する: to take measures, to take steps, to prepare.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
