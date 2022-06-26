@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 対策する: to take measures, to take steps, to prepare.
+💬 Japanese Word of the Day --> ずぶ濡れ: soaking wet, dripping wet, thoroughly wet.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
