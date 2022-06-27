@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ずぶ濡れ: soaking wet, dripping wet, thoroughly wet.
+💬 Japanese Word of the Day --> 他人事: somebody else's problem.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
