@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 他人事: somebody else's problem.
+💬 Japanese Word of the Day --> 用意する: to arrange, to fix, to prepare.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
