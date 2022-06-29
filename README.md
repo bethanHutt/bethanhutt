@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 用意する: to arrange, to fix, to prepare.
+💬 Japanese Word of the Day --> 梅雨明け: the end of the rainy season.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
