@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> お中元: summer gift, mid-year gift.
+💬 Japanese Word of the Day --> 気がひける: to feel ashamed, to feel small.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
