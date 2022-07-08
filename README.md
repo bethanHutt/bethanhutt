@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 頂く: to accept gratefully, to receive gratefully.
+💬 Japanese Word of the Day --> 心遣い: consideration, thoughtfulness, care.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
