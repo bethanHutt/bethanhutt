@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> うまい具合に: to go as planned.
+💬 Japanese Word of the Day --> 差し支えない: no obstructions, no hindrances.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
