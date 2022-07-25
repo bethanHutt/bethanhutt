@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 長引く: to be prolonged.
+💬 Japanese Word of the Day --> 在宅勤務: working from home, home teleworking, telecommuting.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
