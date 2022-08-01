@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 労わる: to care for, to pity.
+💬 Japanese Word of the Day --> お盆: Festival of the Dead.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
