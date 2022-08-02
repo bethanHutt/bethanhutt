@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> お盆: Festival of the Dead.
+💬 Japanese Word of the Day --> 滞在する: to visit, to remain.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
