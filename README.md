@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 滞在する: to visit, to remain.
+💬 Japanese Word of the Day --> 様々な: all kinds of, various.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
