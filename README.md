@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 送り火: ceremonial bonfire.
+💬 Japanese Word of the Day --> 尊重する: to value, to respect.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
