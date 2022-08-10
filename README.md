@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 尊敬する: to respect, to revere.
+💬 Japanese Word of the Day --> ストイックに: stoically.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
