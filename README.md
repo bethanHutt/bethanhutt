@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 保つ: to keep, to maintain.
+💬 Japanese Word of the Day --> 困難な: hard, difficult, complicated.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
