@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 励ます: to encourage, to hearten.
+💬 Japanese Word of the Day --> 不得手: weak point.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
