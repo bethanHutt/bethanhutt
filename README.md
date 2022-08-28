@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 影響: influence, impact.
+💬 Japanese Word of the Day --> 身近な: familiar, closest to.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
