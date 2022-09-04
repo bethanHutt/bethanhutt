@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> お祝いする: to celebrate.
+💬 Japanese Word of the Day --> 特別な: special, particular.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
