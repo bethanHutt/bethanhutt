@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 吸収する: to absorb.
+💬 Japanese Word of the Day --> 研修会: workshop.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
