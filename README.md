@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ちんぷんかんぷん: not making any sense, as clear as mud.
+💬 Japanese Word of the Day --> 焦る: to fret, to feel frustrated.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
