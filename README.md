@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 取引先: business partner, client company, customer.
+💬 Japanese Word of the Day --> 正しい: correct, exact, clean, right.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
