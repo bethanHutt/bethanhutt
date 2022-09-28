@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 中断する: to discontinue, to suspend, to interrupt.
+💬 Japanese Word of the Day --> 忘れる: to forget.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
