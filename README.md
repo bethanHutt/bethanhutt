@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 忘れる: to forget.
+💬 Japanese Word of the Day --> 邪魔する: to disrupt, to interrupt.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
