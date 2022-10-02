@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 人前: in public, in front of people.
+💬 Japanese Word of the Day --> あからさまに: obviously, bluntly, openly.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
