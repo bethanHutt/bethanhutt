@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 物好きな: unnecessarily curious.
+💬 Japanese Word of the Day --> 高所恐怖症: acrophobia.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
