@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> とんでもない: outrageous, relentless, ridiculous.
+💬 Japanese Word of the Day --> 身の毛がよだつ: to have one's hair stand on end.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
