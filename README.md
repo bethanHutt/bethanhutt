@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 身の毛がよだつ: to have one's hair stand on end.
+💬 Japanese Word of the Day --> 屋上: roof floor, a roof terrace, rooftop.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
