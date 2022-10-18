@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 狭い: narrow, contracted, confined.
+💬 Japanese Word of the Day --> 圧迫感: a feeling of oppression, oppressive feeling.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
