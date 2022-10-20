@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 意外な: surprising, unforeseen, eye-opening.
+💬 Japanese Word of the Day --> お化け: ghost.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
