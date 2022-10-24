@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> かび臭い: musty, smelling of mold.
+💬 Japanese Word of the Day --> ハロウィーン: Halloween.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
