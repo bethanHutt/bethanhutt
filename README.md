@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 奇抜な: extraordinary, eccentric, outrageous.
+💬 Japanese Word of the Day --> 練り歩く: to march along, to parade, to flaunt.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
