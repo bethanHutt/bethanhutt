@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 感染症: infection.
+💬 Japanese Word of the Day --> ズキズキと痛い: throbbing pain.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
