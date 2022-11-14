@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 千歳飴: Seven-Five-Three Festival candy.
+💬 Japanese Word of the Day --> 足りる: to be sufficient, to suffice, to be enough.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
