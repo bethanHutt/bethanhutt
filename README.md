@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 刺すように痛い: stabbing pain.
+💬 Japanese Word of the Day --> 心臓病: heart disease.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
