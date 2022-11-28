@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 脱水症: dehydration.
+💬 Japanese Word of the Day --> 規則正しい: regular, even, well-regulated.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
