@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 年末: end of the year.
+💬 Japanese Word of the Day --> やることが山のよう: a mountain of things to do.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
