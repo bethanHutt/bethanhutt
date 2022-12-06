@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 忘年会: a year-end party.
+💬 Japanese Word of the Day --> 迷う: to have no clue, to not have any idea.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
