@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 迷う: to have no clue, to not have any idea.
+💬 Japanese Word of the Day --> 無難な: acceptable, safe, innocuous.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
