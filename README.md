@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 無難な: acceptable, safe, innocuous.
+💬 Japanese Word of the Day --> 趣味を押し付ける: to force one's tastes or preferences on another.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
