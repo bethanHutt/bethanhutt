@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 日常生活: daily life.
+💬 Japanese Word of the Day --> センスが良い: having good taste.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
