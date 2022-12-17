@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 気を遣う: to pay careful attention to something.
+💬 Japanese Word of the Day --> おすすめ: recommendation.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
