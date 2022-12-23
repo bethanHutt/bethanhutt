@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 盛り上がる: to liven up, to be really excited, to get into the swing of things.
+💬 Japanese Word of the Day --> ぬくぬくと: warm, comfortably.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
