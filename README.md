@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ぬくぬくと: warm, comfortably.
+💬 Japanese Word of the Day --> 年始: the beginning of the new year.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
