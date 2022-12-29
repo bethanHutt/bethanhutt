@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ウキウキする: to be happy and excited.
+💬 Japanese Word of the Day --> 大晦日: New Year's Eve.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
