@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 年賀状: New Year's card.
+💬 Japanese Word of the Day --> 仕事始め: first business day of the year.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
