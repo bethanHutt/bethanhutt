@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 階段: stairs.
+💬 Japanese Word of the Day --> クタクタな: to be exhausted, to be worn out.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
