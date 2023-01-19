@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 一朝一夕: in a short amount of time, in a day.
+💬 Japanese Word of the Day --> 改めて: afresh, anew.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
