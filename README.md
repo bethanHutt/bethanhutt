@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 片付ける: to declutter, to tidy up, to straighten up.
+💬 Japanese Word of the Day --> 良: good.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
