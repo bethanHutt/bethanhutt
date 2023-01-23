@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 良: good.
+💬 Japanese Word of the Day --> 覚える: to memorize, to master, to learn.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
