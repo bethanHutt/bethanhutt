@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 倍返し: double payback.
+💬 Japanese Word of the Day --> 商業的な: commercial.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
