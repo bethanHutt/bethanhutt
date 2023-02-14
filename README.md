@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 記念日: anniversary, commemoration day, memorial day.
+💬 Japanese Word of the Day --> 誘う: to invite, to solicit, to court.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
