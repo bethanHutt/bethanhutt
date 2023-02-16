@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 和食: Japanese cuisine.
+💬 Japanese Word of the Day --> シックな: chic, refined, fashionable.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
