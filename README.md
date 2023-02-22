@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 塩辛い: salty.
+💬 Japanese Word of the Day --> 断る: to refuse, to turn down, to repel.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
