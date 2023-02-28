@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> へそくり: a stash of money, pin money, secret savings.
+💬 Japanese Word of the Day --> ひな祭り: Doll Festival.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
