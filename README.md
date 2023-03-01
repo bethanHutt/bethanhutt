@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ひな祭り: Doll Festival.
+💬 Japanese Word of the Day --> 見学する: to observe, to see, to watch.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
