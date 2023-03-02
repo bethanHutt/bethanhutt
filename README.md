@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 見学する: to observe, to see, to watch.
+💬 Japanese Word of the Day --> ひな人形: special doll set.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
