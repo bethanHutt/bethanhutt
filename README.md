@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 訪問する: to visit, to call on, to call in.
+💬 Japanese Word of the Day --> 話題: a conversation topic.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
