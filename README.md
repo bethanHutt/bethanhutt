@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> ルールを守る: to follow the rules.
+💬 Japanese Word of the Day --> 騒音: noise, din.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
