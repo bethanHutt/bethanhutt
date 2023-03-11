@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 駐車場: parking space, parking lot.
+💬 Japanese Word of the Day --> イライラする: to feel frustrated, to feel annoyed, to feel agitated.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
