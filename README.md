@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 大雑把な: cursory, rough, broad, loose.
+💬 Japanese Word of the Day --> 目が合う: to meet eyes, to catch one's eye.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
