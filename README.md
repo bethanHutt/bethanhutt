@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 連絡先: contact information.
+💬 Japanese Word of the Day --> いざという時: at a critical moment, when the need arises, in an emergency.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
