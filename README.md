@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> いざという時: at a critical moment, when the need arises, in an emergency.
+💬 Japanese Word of the Day --> 井戸端会議: gossip session, water cooler talk.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
