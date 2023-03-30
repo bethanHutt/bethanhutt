@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 愚痴: moan, complaint.
+💬 Japanese Word of the Day --> 消極的な: inactive, passive, negative.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
