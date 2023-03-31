@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 消極的な: inactive, passive, negative.
+💬 Japanese Word of the Day --> 苦手な: to be bad at, to be poor at, weak.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
