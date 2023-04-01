@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 苦手な: to be bad at, to be poor at, weak.
+💬 Japanese Word of the Day --> 宴会: company party, corporate gathering.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
