@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 顔が広い: to have a large circle of acquaintances, to know a lot of people.
+💬 Japanese Word of the Day --> 人事異動: internal transfer, personnel rotation.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
