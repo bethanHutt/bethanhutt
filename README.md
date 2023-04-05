@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 人事異動: internal transfer, personnel rotation.
+💬 Japanese Word of the Day --> 信頼できる: trustworthy, credible.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
