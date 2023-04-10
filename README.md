@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 口出しする: to stick one's nose into something, to interfere with.
+💬 Japanese Word of the Day --> 話の腰を折る: to interrupt a conversation.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
