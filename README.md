@@ -6,7 +6,7 @@
 - 🤷‍♀️️ Apparently I find emojis cute despite being an actual adult.  
 
 <!-- japanese_wotd starts -->
-💬 Japanese Word of the Day --> 派閥: faction.
+💬 Japanese Word of the Day --> 社交的な: sociable, outgoing, gregarious, socialized.
 <!-- japanese_wotd ends -->
 
 <!-- github_stats starts -->
